@@ -1,1 +1,13 @@
-# HTML_Hack3.2
+
+# Tecnología
+- [ ] HTML
+- [ ] CSS3
+- [ ] docs
+
+# Seleccione el tipo de actividad
+- [ ] Feature
+- [ ] Changes
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
